@@ -28,11 +28,5 @@
     "description": "Allí se alberga más de 600 piezas de fósiles encontradas en el desierto de la Tatacoa, que datan de al menos 5 millones de años.",
     "rating": 4.1,
     "urlPhoto": "R.drawable.cartagena"
-  },
-  {
-    "name": "Museo Artesanal Casa Del Totumo",
-    "description": "En este Lugar se exhiben un centenar de objetos elaborados en totumo, un árbol de más de 4 metros de altura que se utiliza para elaborar instrumentos caseros, artesanías y mobiliario del hogar.",
-    "rating": 4.1,
-    "urlPhoto": "R.drawable.cartagena"
   }
 ]
