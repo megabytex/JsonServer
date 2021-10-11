@@ -1,4 +1,4 @@
-{
+[
   {
     "name": "Observatorio Astronómico",
     "description": "Dos observatorios que se especializan en brindar charlas sobre astronomía, su actividad y componentes; generado la oportunidad de observar el cielo con equipos profesionales, una gran experiencia",
@@ -35,4 +35,4 @@
     "rating": 4.1,
     "urlPhoto": "R.drawable.cartagena"
   }
-}
+]
