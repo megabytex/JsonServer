@@ -16,17 +16,5 @@
     "description": "El Laberinto de Cuzco es bastante atractivo por su intenso color rojo, este es una serie de montículos de arena con tonalidades de color naranja y rojas",
     "rating": 4.2,
     "urlPhoto": "R.drawable.cartagena"
-  },
-  {
-    "name": "El Valle Xilópalos",
-    "description": "Un lugar menos explorado por turistas, donde sus grandes cañones, gigantes cactus y su paisaje hacen de éste un paisaje único.",
-    "rating": 4.1,
-    "urlPhoto": "R.drawable.cartagena"
-  },
-  {
-    "name": "Museo Paleontológico De Villavieja",
-    "description": "Allí se alberga más de 600 piezas de fósiles encontradas en el desierto de la Tatacoa, que datan de al menos 5 millones de años.",
-    "rating": 4.1,
-    "urlPhoto": "R.drawable.cartagena"
   }
 ]
